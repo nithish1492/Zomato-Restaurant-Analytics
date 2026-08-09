@@ -10,7 +10,6 @@ __pycache__/
 
 # Environment variables
 .env
-.env.*
 
 # Frontend
 frontend/node_modules/

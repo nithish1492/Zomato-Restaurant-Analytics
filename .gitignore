@@ -4,7 +4,6 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 .env
-.env.*
 frontend/node_modules/
 frontend/dist/
 frontend/.vite/
